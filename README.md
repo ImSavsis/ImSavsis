@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.pinimg.com/originals/a3/9b/ed/a39bed6c9bfb825063c734cf5e5c2bde.gif" alt="Nodex.pw Banner" width="100%">
+</p>
+
 <div align="center">
   <h1>I'm just a middle developer.</h1>
   <p>Не всегда, но иногда у меня  даже что то получается</p>

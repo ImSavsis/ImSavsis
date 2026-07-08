@@ -34,9 +34,3 @@
 
 ###  Проекты:
 
-[![Lurk Browser](https://github-readme-stats.vercel.app/api/pin/?username=ImSavsis&repo=Lurk-Custom-OpenSource-Browser&theme=radical)](https://github.com/ImSavsis/Lurk-Custom-OpenSource-Browser)
-[![Burmalda Music Windows](https://github-readme-stats.vercel.app/api/pin/?username=ImSavsis&repo=BurmaldaMusic-ClientApp-for-Windows&theme=radical)](https://github.com/ImSavsis/BurmaldaMusic-ClientApp-for-Windows)
-[![NodeShift Music iOS](https://github-readme-stats.vercel.app/api/pin/?username=ImSavsis&repo=nodeshiftmusicburmalda&theme=radical)](https://github.com/ImSavsis/nodeshiftmusicburmalda)
-
----
-
